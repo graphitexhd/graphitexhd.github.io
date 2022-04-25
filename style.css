@@ -39,7 +39,7 @@ h1 {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: linear-gradient(#f306e7 25%, #e614b1 35%, #a7cf14 50%, #20125f 50%, #8313e7 55%, #ff61af 75%);
+    background-image: linear-gradient(#c47507 25%, #c73302 35%, #039b3d 50%, #0c94b0 50%, #8313e7 55%, #770840 75%);
     -webkit-text-stroke: 0.01em #94a0b9;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }

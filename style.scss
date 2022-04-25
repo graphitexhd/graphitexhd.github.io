@@ -16,6 +16,7 @@ body {
   background: radial-gradient(rgba(245, 223, 127, 0.5) 0%, transparent 70%), linear-gradient(rgb(159, 51, 128) 40%, rgb(50, 51, 170) 70%);
   perspective: 700px;
   font-size: clamp(10px, 2vw, 20px);
+
 }
 
 // .lines {
@@ -62,7 +63,7 @@ h1 {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: linear-gradient(#f306e7 25%, #e614b1 35%, rgb(167, 207, 20) 50%, #20125f 50%, #8313e7 55%, #ff61af 75%);
+    background-image: linear-gradient(#c47507 25%, #c73302 35%, rgb(3, 155, 61) 50%, #0c94b0 50%, #8313e7 55%, #770840 75%);
     -webkit-text-stroke: 0.01em #94a0b9;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
